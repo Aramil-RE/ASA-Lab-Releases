@@ -1,6 +1,6 @@
 # 🎛️ SoundForge — Studio Podcast & Régie Audio Live
 
-> **Version actuelle : `v1.3.7`** • Windows 10/11 (x64) & macOS (Apple Silicon M1–M4 & Intel)
+> **Version actuelle : `v1.3.8`** • Windows 10/11 (x64) & macOS (Apple Silicon M1–M4 & Intel)
 
 **SoundForge** est une application de bureau professionnelle dédiée au traitement audio temps réel **ultra-basse latence**, réunissant deux environnements complets dans une seule interface sombre de précision :
 
@@ -26,29 +26,29 @@ Pensé pour les balances, le live et la scène :
 
 ---
 
-## ⬇️ Télécharger SoundForge `v1.3.7`
+## ⬇️ Télécharger SoundForge `v1.3.8`
 
 Rendez-vous dans la section **[Releases](https://github.com/Aramil-RE/SoundForge-Releases/releases/latest)** ou utilisez les liens directs ci-dessous :
 
 | Système | Fichier d'installation |
 | :--- | :--- |
-| **Windows 10 / 11 (64-bit)** | [SoundForge-Setup-1.3.7-Windows-x64.exe](https://github.com/Aramil-RE/SoundForge-Releases/releases/download/v1.3.7/SoundForge-Setup-1.3.7-Windows-x64.exe) |
-| **macOS Apple Silicon (M1 / M2 / M3 / M4)** | [SoundForge-1.3.7-macOS-arm64.dmg](https://github.com/Aramil-RE/SoundForge-Releases/releases/download/v1.3.7/SoundForge-1.3.7-macOS-arm64.dmg) |
-| **macOS Intel (x64)** | [SoundForge-1.3.7-macOS-x64.dmg](https://github.com/Aramil-RE/SoundForge-Releases/releases/download/v1.3.7/SoundForge-1.3.7-macOS-x64.dmg) |
+| **Windows 10 / 11 (64-bit)** | [SoundForge-Setup-1.3.8-Windows-x64.exe](https://github.com/Aramil-RE/SoundForge-Releases/releases/download/v1.3.8/SoundForge-Setup-1.3.8-Windows-x64.exe) |
+| **macOS Apple Silicon (M1 / M2 / M3 / M4)** | [SoundForge-1.3.8-macOS-arm64.dmg](https://github.com/Aramil-RE/SoundForge-Releases/releases/download/v1.3.8/SoundForge-1.3.8-macOS-arm64.dmg) |
+| **macOS Intel (x64)** | [SoundForge-1.3.8-macOS-x64.dmg](https://github.com/Aramil-RE/SoundForge-Releases/releases/download/v1.3.8/SoundForge-1.3.8-macOS-x64.dmg) |
 
 ---
 
 ## 🆕 Dernières mises à jour publiées
 
 ### 🎙️ SoundForge Podcast
+- **v1.3.8** *(2026-11-25)* — Assistant IA Complet sur Tous les Plugins (Voix JDR, Anti-Bruit, Broadcast, Routage 3 ms)
 - **v1.3.7** *(2026-11-25)* — Notification Automatique de Nouvelle Version dans l’Application
 - **v1.3.6** *(2026-11-25)* — Mises à jour Automatiques Cloud Sans Token (Zéro Expiration)
-- **v1.3.5** *(2026-11-25)* — Mises à jour Cloud Privé Chiffrées & Sécurité Renforcée
 
 ### 🎸 SoundForge Concert
+- **v1.3.8** *(2026-11-25)* — Assistant IA Complet sur Tous les Plugins (Auto-Tune Pro, X-FDBK, NS1, Routage 3 ms)
 - **v1.3.7** *(2026-11-25)* — Notification Automatique de Nouvelle Version dans l’Application
 - **v1.3.6** *(2026-11-25)* — Mises à jour Automatiques Cloud Sans Token (Zéro Expiration)
-- **v1.3.5** *(2026-11-25)* — Mises à jour Cloud Privé Chiffrées & Sécurité Renforcée
 
 ---
 
